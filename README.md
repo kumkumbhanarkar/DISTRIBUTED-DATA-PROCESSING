@@ -9,6 +9,7 @@ DOMAIN: BIG DATA
 DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
+
 In this task, I focused on performing data analysis on a large dataset using Apache Spark with PySpark, specifically targeting operations like filtering, grouping, and aggregations. The goal was to extract meaningful insights from the data using Spark’s distributed computing capabilities. These operations are essential when working with big data, as they help summarize, segment, and understand trends hidden in large volumes of information.
 
 To begin, I set up the environment in Google Colab by installing the PySpark library using the command !pip install pyspark. After installation, I imported the necessary modules, especially functions like col, count, avg, sum, max, and min from pyspark.sql.functions, which are commonly used for aggregation and data transformations.
