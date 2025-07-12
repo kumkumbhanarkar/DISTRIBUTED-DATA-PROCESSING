@@ -33,3 +33,6 @@ This part of the task showed how PySpark can perform multiple complex aggregatio
 
 Overall, this task taught me how to use PySpark for practical data analysis, including filtering large datasets, grouping records, and applying multiple aggregations efficiently. Unlike traditional Python tools, Spark's distributed nature makes it suitable for handling big data operations quickly and at scale. It was also a great exercise in understanding how to derive high-level summaries and insights from raw data in a clean and structured way.
 #Output 
+<img width="1920" height="616" alt="Image" src="https://github.com/user-attachments/assets/6147a87b-31c3-4c27-95b2-b8fddb0a17c0" />
+<img width="1920" height="521" alt="Image" src="https://github.com/user-attachments/assets/d9829044-1c3d-429b-bd8f-530f4640de89" />
+<img width="1920" height="526" alt="Image" src="https://github.com/user-attachments/assets/a754a560-59d2-4b36-9172-6ff4232022ff" />
